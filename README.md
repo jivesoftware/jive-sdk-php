@@ -5,8 +5,6 @@ This is currently a placeholder for a series tools to assist Go developers to bu
 
 **This SDK is currently a work in progress.** :smile:
 
-Please reference the [Jive-SDK-Your-Way: Get Paid to Contribute an SDK](https://community.jivesoftware.com/community/developer/blog/2015/11/09/jive-sdk-your-way-get-paid-to-contribute-an-sdk).
-
 # To-do
 - [ ] Validate headers -- register and unregister [Reference](https://community.jivesoftware.com/docs/DOC-99941#jive_content_id_Ensure_Register_Calls_are_Coming_from_a_Genuine_Jive_Instance)
 - [ ] Validate signed fetch add-on requests [Reference](https://community.jivesoftware.com/docs/DOC-156557)
